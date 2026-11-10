@@ -71,10 +71,6 @@ It prints PASS or FAIL for each check and saves `psd_checked.csv`. If you also a
 - Pakistan Economic Survey 2023-24, Chapter 2 Agriculture (Pakistan Bureau of Statistics). The 2023/24 figures are provisional.
 - Pakistan Economic Survey 2022-23 and press reports on the 2022 floods and the 2024 season
 
-## How I worked
-
-I used an AI assistant as a tutor and for drafting. I checked the numbers against USDA and the Economic Survey, and I can explain every formula and step in this project.
-
 ## Next steps
 
 - Add textile and made-ups export values and cotton prices for the same years
